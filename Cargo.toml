@@ -2,6 +2,7 @@
 name = "config-watch"
 version = "0.1.0"
 edition = "2021"
+repository = "https://github.com/SuperInstance/config-watch"
 description = "File watcher for dynamic configuration reloading"
 license = "MIT OR Apache-2.0"
 
